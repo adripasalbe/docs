@@ -1,17 +1,5 @@
-# pene de negro
+# Los lenguajes de marcas
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Introducción
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Los lenguajes de marcas son sistemas utilizados para estructurar, organizar y describir información en documentos, en el ámbito digital. No se centran en crear lógica o ejecutar acciones, sino en definir la estructura, el formato y el significado del contenido. Gracias a ellos, hoy es posible construir páginas web, almacenar datos y formatear documentos de manera clara, flexible y reutilizable.
