@@ -8,7 +8,7 @@ Fue el padre de HTML y XML. Se usaba para definir estructuras de documentos comp
 
 Se dejó de usar porque era muy complejo y difícil de implementar en la web. Fue remplazado por HTML para la web y XML para datos.
 
-
+![](/imgs/Graf-emacs-sgml-5.png)
 
 
 * 2 XHTML "eXtensible HyperText Markup Language"
@@ -17,8 +17,12 @@ Fue una versión de HTML escrita con las reglas estrictas de XML.
 Su principal ventaja fue ahcer documentos más limpios y estrictos.
 Su desventaja fue ser demasiado rígido por ejemplo una sola etiqueta mal cerrada rompía toda la página.
 
+![](/imgs/image031.jpg)
+
 * 3 WML "Wireless Markup Language"
 
 Se usa en lenguaje para navegadores de teléfonos móviles antiguos (antes de los smartphones). Es solo texto y contenido muy simple.
+
+![](/imgs/waptor9.jpg)
 
 
